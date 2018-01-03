@@ -1,2 +1,2 @@
-# salaries
-Pro athlete salaries
+# Salaries
+Pro athlete salaries versus height, weight and age
