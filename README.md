@@ -3,9 +3,9 @@
 Pro athlete salaries versus height, weight and age
 
 ### Visualizations
-https://plot.ly/~ionab10/14/salaries-vs-weight/
-https://plot.ly/~ionab10/16/salaries-vs-age/
-https://plot.ly/~ionab10/12/salaries-vs-height/
+* https://plot.ly/~ionab10/14/salaries-vs-weight/
+* https://plot.ly/~ionab10/16/salaries-vs-age/
+* https://plot.ly/~ionab10/12/salaries-vs-height/
 
 
 ## NHL_salaries
